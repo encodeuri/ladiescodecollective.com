@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://congtogel.docs.khs1994.com/sitemap.xml
